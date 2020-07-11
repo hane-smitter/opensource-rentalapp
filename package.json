@@ -1,0 +1,25 @@
+{
+  "name": "opensource",
+  "version": "1.0.0",
+  "description": "realestate app in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zak and Ronald",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.0.0",
+    "express-session": "^1.17.1",
+    "method-override": "^3.0.0",
+    "mysql2": "^2.1.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "sequelize": "^6.3.3",
+    "winston": "^3.3.3"
+  }
+}
